@@ -33,3 +33,13 @@ To deploy a model on AWS, we need three things:
 <img width="696" alt="image" src="https://user-images.githubusercontent.com/75114179/174030157-12928184-97c6-423e-b44f-2a1d2a0c12a2.png">
 <img width="736" alt="image" src="https://user-images.githubusercontent.com/75114179/174030231-df90e94a-3001-4747-a044-80e51adc9cea.png">
 
+https://github.com/aws/amazon-sagemaker-examples/tree/main/sagemaker-python-sdk/pytorch_mnist
+
+<img width="806" alt="image" src="https://user-images.githubusercontent.com/75114179/174040354-3387a36e-8f9e-465c-94c9-c6beef29e634.png">
+
+Pricing of different instances
+https://aws.amazon.com/sagemaker/pricing/
+
+<img width="952" alt="image" src="https://user-images.githubusercontent.com/75114179/174058368-cf2ec89c-74bc-4727-9a79-97d2f6c54e0f.png">
+
+
